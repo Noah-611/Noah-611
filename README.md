@@ -1,7 +1,5 @@
-
-## EunSu's Github
-안녕하세요. 노은수입니다.
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=190&section=header&text=Eunsu's%20Github&fontSize=48&fontColor=5bc8fa&fontAlignY=40&animation=twinkling)
+## 안녕하세요. 노은수입니다.
 <a href="mailto:nys0611@naver.com">
   <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=naver&logoColor=white"/>
 </a>
@@ -18,10 +16,11 @@
 ---
 
 ## 🖳 Projects
-| 프로젝트명 | 설명 | 보기 |
-|------------|------|--------|
-| **Security Law Archive** | 보안 및 개인정보 보호 관련 법률 위반 사례와 판례 정보를 수집·검색하고 시각화할 수 있는 웹 애플리케이션 |[보기](https://github.com/kang-seok-kyung/security-law-archive.git)|
-| **TABA Cookingmate** | AI와 Web Speech API를 활용한 실시간 대화형 요리보조 어플리케이션 |[보기](https://github.com/Taba-Team6/Cook-app-beta.git)|
+| Name | Description |
+|------------|------|
+| **Security Law Archive** | 보안 및 개인정보 보호 관련 법률 위반 사례와 판례 정보를 수집·검색하고 시각화할 수 있는 웹 애플리케이션 · [보기](https://github.com/kang-seok-kyung/security-law-archive.git) |
+| **TABA Cookingmate** | AI와 Web Speech API를 활용한 실시간 대화형 요리보조 어플리케이션 · [보기](https://github.com/Taba-Team6/Cook-app-beta.git) |
+
 
 ---
 
@@ -42,3 +41,4 @@
 - Top-tier AI Bigdata Academy (TABA) 10기 수료
 
 ---
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=130&section=footer&fontSize=60&fontColor=5bc8fa&fontAlignY=45&animation=twinkling)
