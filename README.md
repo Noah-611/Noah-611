@@ -12,7 +12,7 @@
 ## 🎓 Education
 **Dankook University, Yongin**  
 - B.S. in Mobile Systems Engineering (Mar 2023-Present)
-- GPA: 3.81/4.5 ***(Major GPA: 3.83/4.5)***
+- GPA: 3.89/4.5 ***(Major GPA: 3.95/4.5)***
 ---
 
 ## 🖳 Projects
