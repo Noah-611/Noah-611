@@ -39,6 +39,7 @@
 ## 🌱 Certificate
 - 컴퓨터활용능력 1급
 - Top-tier AI Bigdata Academy (TABA) 10기 수료
+- ADsP(국가공인 데이터분석 준전문가)
 
 ---
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=130&section=footer&fontSize=60&fontColor=5bc8fa&fontAlignY=45&animation=twinkling)
